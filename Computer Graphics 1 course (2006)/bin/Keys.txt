@@ -1,0 +1,11 @@
+
+ 
+==============================================================
+     Keys            |       operation
+==============================================================
+Right click mouse    :    Show  pop-up menu
+W,S,A,D,Q,E   	     :    Move camera ( Change position)
+LEFT,RIGHT,UP,DOWN   :    Shange where we look at
+F1,F2,F3             :    Show / hide sub windows
+Z , X                :    Change functionality of sub windows
+==============================================================

@@ -1,0 +1,13 @@
+
+ 
+=========================================================
+     Keys          |       operation
+=========================================================
+Right click mouse  :    Open pop-up menu
+W,S,A,D,Q,E   	   :    Move camera ( change position)
+Y,H,G,J,U,T   	   :    Move sphere light
+> , /         	   :    Change Environment light
+M,N           	   :    Change intensity of selected light
+[,]           	   :    Change intensity of selected light
+R             	   :    Reverse look position
+=========================================================
